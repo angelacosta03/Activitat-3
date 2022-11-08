@@ -6,5 +6,4 @@ public class HelloWorldAngel {
 		System.out.println("Hola Mundo soy Ernest");
 		System.out.println("Hola Mundo soy Angel y me huele el culo");
 	}
-
 }
